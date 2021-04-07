@@ -10,10 +10,6 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using WebApplication1.Models;
 
-/// <summary>
-/// Test Comment for Azure commit
-/// </summary>
-
 namespace WebApplication1.Controllers
 {
     [Authorize]
