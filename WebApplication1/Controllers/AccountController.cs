@@ -12,6 +12,9 @@ using WebApplication1.Models;
 
 namespace WebApplication1.Controllers
 {
+    /// <summary>
+    /// These are coments to show the merging of branches...
+    /// </summary>
     [Authorize]
     public class AccountController : Controller
     {
