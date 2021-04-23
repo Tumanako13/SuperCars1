@@ -15,6 +15,10 @@ namespace WebApplication1.Controllers
     /// <summary>
     /// These are coments to show the merging of branches...
     /// </summary>
+    
+    /// These are some more comments to illustrate that the Uriah2ndMergeBranch2 branch has been created.
+
+    
     [Authorize]
     public class AccountController : Controller
     {
